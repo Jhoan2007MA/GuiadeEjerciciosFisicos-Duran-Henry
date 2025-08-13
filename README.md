@@ -4,16 +4,16 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 
 ## Tipos de Ejercicio
 
-- [Ejercicio Cardio](ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
-- [Ejercicio de Fuerza](ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
-- [Ejercicio de Flexibilidad](ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
-- [Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
-- [Ejercicio de Yoga](ejercicios/yoga.md): Fomenta la relajación y la flexibilidad.
-- [Ejercicio de Pilates](ejercicios/pilates.md): Fortalece el núcleo y mejora la postura.
-- [Ejercicio de Ciclismo](ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
-- [Ejercicio de Natación](ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
-- [Ejercicio de Boxeo](ejercicios/boxeo.md): Mejora la coordinación y la resistencia.
-- [Ejercicio de CrossFit](ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
+- [Ejercicio Cardio](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
+- [Ejercicio de Fuerza](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
+- [Ejercicio de Flexibilidad](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/Flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
+- [Ejercicio de Entrenamiento Funcional](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/Entrenamiento.md): Mejora la fuerza en movimientos cotidianos.
+- [Ejercicio de Yoga](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/yoga.md): Fomenta la relajación y la flexibilidad.
+- [Ejercicio de Pilates](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/pilates.md): Fortalece el núcleo y mejora la postura.
+- [Ejercicio de Ciclismo](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
+- [Ejercicio de Natación](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
+- [Ejercicio de Boxeo](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/boxeo.md): Mejora la coordinación y la resistencia.
+- [Ejercicio de CrossFit](GUIADEEJERCICIOSFISICOS-DURAN-HENRY/ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
 
 💡 Beneficios de mantenerse activo:
 
