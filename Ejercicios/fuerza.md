@@ -15,4 +15,14 @@ Fortalece los músculos, mejora la densidad ósea, ayuda a controlar el peso y p
 
 -Respiración: Inhala antes de levantar el peso y exhala durante la fase de esfuerzo.
 
--Descanso: Permite que tus músculos descansen entre series y días de entrenamiento. Un mínimo de un día de descanso entre sesiones es recomendable. 
+-Descanso: Permite que tus músculos descansen entre series y días de entrenamiento. Un mínimo de un día de descanso entre sesiones es recomendable.
+
+## Consejos
+-Nutrición:
+Asegúrate de consumir suficientes proteínas para apoyar el crecimiento muscular, según la información de un artículo sobre entrenamiento de fuerza.
+
+-Descanso:
+Duerme lo suficiente para permitir que los músculos se recuperen y crezcan.
+
+-Hidratación:
+Bebe suficiente agua para mantener tu cuerpo hidratado y funcionando correctamente.
