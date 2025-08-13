@@ -28,4 +28,15 @@ Variar la altura de las piernas, desde la superficie hasta un poco más abajo.
 3. Ejercicios de brazada:
 Realizar movimientos de brazada de crawl y espalda, primero en seco y luego en el agua. 
 Prestar atención a la entrada y salida de las manos, así como a la rotación del cuerpo. 
-Practicar la brazada con y sin tabla, buscando una buena coordinación entre brazos y piernas. 
+Practicar la brazada con y sin tabla, buscando una buena coordinación entre brazos y piernas.
+
+## Consejos
+
+1. Estilo y técnica:
+Encuentra un estilo de natación que te resulte cómodo y evita movimientos forzados que puedan causar daño. 
+
+2. Respiración:
+Controla tu respiración, inhalando por la nariz y exhalando por la boca, y practica la respiración lateral en estilos como crol.
+
+3. Posición del cuerpo:
+Mantén una buena posición en el agua, evitando levantar la cabeza para que los pies no se hundan. 
