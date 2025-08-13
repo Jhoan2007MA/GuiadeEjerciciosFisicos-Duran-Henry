@@ -11,4 +11,19 @@ Las posturas de yoga, o asanas, ayudan a estirar y fortalecer los músculos, mej
 La práctica de yoga, incluyendo la meditación y la respiración consciente, puede ayudar a calmar la mente y reducir los niveles de estrés y ansiedad.
 
 3. Mejora la postura corporal:
-El yoga ayuda a fortalecer los músculos de la espalda y a corregir desequilibrios posturales. 
+El yoga ayuda a fortalecer los músculos de la espalda y a corregir desequilibrios posturales.
+
+## Instrucciones
+1. Preparación:
+Busca un lugar tranquilo y libre de distracciones. 
+Utiliza una esterilla de yoga para mayor comodidad y estabilidad. 
+Vístete con ropa cómoda y flexible que te permita moverte libremente. 
+
+2. Respiración:
+La respiración es fundamental en el yoga. Inhala y exhala profundamente por la nariz, a menos que se indique lo contrario. 
+Coordina la respiración con los movimientos para aumentar la concentración y la relajación.
+ 
+3. Posturas (Asanas):
+Comienza con posturas básicas como el perro boca abajo, la montaña, el árbol, etc. 
+Escucha a tu cuerpo y no te fuerces en posturas avanzadas si no te sientes cómodo. 
+Mantén cada postura durante varias respiraciones profundas y conscientes. 
