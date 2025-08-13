@@ -25,3 +25,13 @@ Mantén cada estiramiento durante 30 segundos para permitir que los músculos se
 
 4. Repeticiones:
 Repite cada estiramiento de 2 a 4 veces para trabajar los músculos de manera efectiva. 
+
+## Consejos
+1. Respiración:
+Mantén una respiración constante y profunda durante los estiramientos, lo que ayuda a relajar los músculos.
+
+2. Escucha a tu cuerpo:
+Si sientes dolor, detente. Un ligero tirón es normal, pero el dolor indica que te estás excediendo.
+
+3. Constancia:
+Incorpora los estiramientos en tu rutina diaria o varias veces a la semana para obtener mejores resultados. 
