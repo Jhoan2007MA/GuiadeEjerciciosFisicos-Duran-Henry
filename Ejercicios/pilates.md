@@ -22,3 +22,13 @@ Realiza los movimientos de forma controlada, utilizando la fuerza muscular adecu
 
 3. Centrado:
 Todos los movimientos deben originarse desde el centro del cuerpo (el "powerhouse"), que incluye los músculos abdominales profundos, la espalda baja y los músculos del suelo pélvico.
+
+## Consejos
+1. Comienza con lo básico:
+No intentes ejercicios avanzados desde el principio. Enfócate en dominar los movimientos fundamentales.
+
+2. Mantén la concentración:
+El Pilates requiere atención y concentración. Mantén la mente enfocada en los movimientos y la respiración.
+
+3. Disfruta del proceso:
+El Pilates puede ser un ejercicio desafiante, pero también divertido. ¡Disfruta de los beneficios que te aporta! 
