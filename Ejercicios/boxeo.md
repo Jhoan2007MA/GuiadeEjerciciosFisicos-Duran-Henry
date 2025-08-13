@@ -27,4 +27,14 @@ Familiarízate con el jab (directo con la mano adelantada), el cruzado (directo 
 
 4. Respiración:
 Exhala con fuerza al golpear y exhala al recuperar la guardia.
- 
+
+## Consejos
+
+1. Postura correcta:
+Mantén una postura equilibrada con las piernas ligeramente flexionadas y separadas a la altura de los hombros. Tu peso debe estar distribuido uniformemente entre ambos pies y protege tu rostro con las manos en posición de guardia.
+
+2. Técnica de golpes:
+Practica cada golpe con la técnica adecuada, enfocándote en la rotación del cuerpo y la transferencia de peso para generar potencia.
+
+3. Juego de pies:
+Domina el movimiento de pies para mantenerte en movimiento constante, evitar ser un blanco fácil y generar oportunidades de ataque. 
