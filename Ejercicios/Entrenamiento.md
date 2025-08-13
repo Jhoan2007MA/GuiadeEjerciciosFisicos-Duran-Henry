@@ -25,3 +25,16 @@ Presta atención a la postura correcta en cada ejercicio para evitar lesiones.
 
 4. Adapta la intensidad y dificultad:
 Ajusta la dificultad de los ejercicios a tu nivel de condición física, comenzando con repeticiones o series más cortas y aumentando gradualmente. 
+
+## Consejos
+1. Calentamiento:
+Inicia con ejercicios de movilidad articular, especialmente enfocados en la columna vertebral y la cintura escapular.
+
+2. Técnica:
+La técnica correcta es fundamental para evitar lesiones y maximizar los beneficios. Prioriza la ejecución precisa sobre la cantidad de repeticiones o peso.
+
+3. Progresión:
+Aumenta gradualmente la intensidad y dificultad de los ejercicios a medida que te sientas más fuerte.
+
+4. Escucha a tu cuerpo:
+Presta atención a las señales de dolor y fatiga. No entrenes con dolor agudo y asegúrate de tener un descanso adecuado. 
