@@ -12,3 +12,16 @@ Al fortalecer los músculos y mejorar la alineación corporal, la flexibilidad p
 
 -Mayor amplitud de movimiento:
 La flexibilidad permite un mayor rango de movimiento en las articulaciones, lo que puede mejorar el rendimiento en diversas actividades físicas.
+
+## Instrucciones
+1. Calentamiento:
+Antes de cualquier estiramiento, realiza un calentamiento ligero de 5 a 10 minutos, como caminar o trotar suavemente, para preparar los músculos.
+
+2. Estiramiento suave:
+Estira cada músculo hasta sentir un ligero tirón, evitando movimientos bruscos o rebotes que puedan causar lesiones.
+
+3. Mantén la postura:
+Mantén cada estiramiento durante 30 segundos para permitir que los músculos se alarguen adecuadamente.
+
+4. Repeticiones:
+Repite cada estiramiento de 2 a 4 veces para trabajar los músculos de manera efectiva. 
