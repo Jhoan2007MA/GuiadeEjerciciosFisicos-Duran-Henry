@@ -12,4 +12,15 @@ El entrenamiento de CrossFit implica levantamiento de pesas y ejercicios funcion
 La combinación de ejercicios de alta intensidad y ejercicios metabólicos mejora la capacidad cardiovascular y pulmonar.
 
 3. Incremento de la flexibilidad y movilidad:
-Los ejercicios de CrossFit, como los estiramientos y movimientos dinámicos, ayudan a mejorar la flexibilidad y la movilidad de las articulaciones. 
+Los ejercicios de CrossFit, como los estiramientos y movimientos dinámicos, ayudan a mejorar la flexibilidad y la movilidad de las articulaciones.
+
+## Instrucciones
+
+1. Movimientos básicos:
+Centrarse en la técnica correcta de ejercicios como sentadillas, flexiones, peso muerto, y press de hombros.
+
+2. WODs (Entrenamientos del Día):
+Los WODs son workouts diseñados para combinar movimientos funcionales, levantamiento de pesas, ejercicios de core y cardio.
+
+3. Escalado:
+Adaptar los ejercicios a tu nivel, reduciendo repeticiones, peso o dificultad para asegurar una progresión adecuada y evitar lesiones. 
