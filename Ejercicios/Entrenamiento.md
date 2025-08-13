@@ -12,3 +12,16 @@ Al fortalecer los músculos y mejorar la movilidad, el entrenamiento funcional a
 
 3. Mayor movilidad y coordinación:
 El entrenamiento funcional mejora la capacidad de realizar movimientos sin restricciones, lo que se traduce en una mejor movilidad y coordinación en actividades diarias y deportivas.
+
+## Instrucciones
+1. Realiza un calentamiento adecuado:
+Antes de cada sesión, dedica tiempo a calentar los músculos con ejercicios suaves y movilidad articular.
+
+2. Incorpora ejercicios funcionales básicos:
+Comienza con ejercicios como sentadillas, estocadas, flexiones, planchas, y elevaciones de talón.
+
+3. Asegura una buena técnica:
+Presta atención a la postura correcta en cada ejercicio para evitar lesiones.
+
+4. Adapta la intensidad y dificultad:
+Ajusta la dificultad de los ejercicios a tu nivel de condición física, comenzando con repeticiones o series más cortas y aumentando gradualmente. 
