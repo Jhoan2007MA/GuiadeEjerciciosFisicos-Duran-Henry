@@ -16,9 +16,19 @@ La práctica regular de ciclismo aumenta la resistencia física general, lo que 
 ## Instrucciones
 1. Ajuste de la bicicleta:
 Asegúrate de que la bicicleta esté bien ajustada a tu cuerpo y al nivel de dificultad que deseas.
- 
+
 2. Ropa adecuada:
 Usa ropa cómoda, transpirable y adecuada para la práctica del ciclismo, incluyendo maillot, culote, calcetines, guantes, casco y gafas de sol.
 
 3. Calentamiento:
-Dedica entre 5 y 15 minutos a calentar y estirar antes de cada salida para evitar lesiones. 
+Dedica entre 5 y 15 minutos a calentar y estirar antes de cada salida para evitar lesiones.
+
+## Consejos
+1. Planificación:
+Organiza tus entrenamientos, incluyendo sesiones de intensidad variable y descansos.
+
+2. Distancia y ritmo:
+Incrementa la distancia gradualmente y evita empezar demasiado rápido para prevenir fatiga y lesiones.
+
+3. Intervalos:
+Incluye entrenamientos de intervalos de alta intensidad para mejorar la resistencia y la velocidad. 
