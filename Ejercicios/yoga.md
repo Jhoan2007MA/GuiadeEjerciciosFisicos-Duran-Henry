@@ -22,8 +22,18 @@ Vístete con ropa cómoda y flexible que te permita moverte libremente.
 2. Respiración:
 La respiración es fundamental en el yoga. Inhala y exhala profundamente por la nariz, a menos que se indique lo contrario. 
 Coordina la respiración con los movimientos para aumentar la concentración y la relajación.
- 
+
 3. Posturas (Asanas):
 Comienza con posturas básicas como el perro boca abajo, la montaña, el árbol, etc. 
 Escucha a tu cuerpo y no te fuerces en posturas avanzadas si no te sientes cómodo. 
 Mantén cada postura durante varias respiraciones profundas y conscientes. 
+
+## Consejos
+1. Respira conscientemente:
+La respiración es fundamental en el yoga. La respiración Ujjayi (respiración profunda y controlada) ayuda a relajar el cuerpo y a mantener las posturas. Inhala al estirar y exhala al contraer.
+
+2. Comienza con lo básico:
+No intentes posturas avanzadas desde el principio. Comienza con posturas simples y gradualmente aumenta la dificultad a medida que te sientas más cómodo y fuerte.
+
+3. Usa apoyos si es necesario:
+No dudes en utilizar bloques, mantas o correas para ayudarte a mantener las posturas de forma segura y cómoda. 
